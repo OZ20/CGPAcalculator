@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">CGPA calculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading…</string>
+
+    <string-array name="gred_array">
+        <item>Grade</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+    </string-array>
+
+    <string-array name="ch_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+
+
+    <string name="info">Mengenai Saya </string>
+    <string name="derma">Derma (klik untuk copy)</string>
+    <string name="support">Kongsikan bersama</string>
+    <string name="azdev">Azdev</string>
+    <string name="result">Keputusan langsung</string>
+    <string name="ayatpru"> Aplikasi untuk mengira GPA dan CGPA
+</string>
+
+    <string name="ayatwhy">Kenapa buat? for fun :)
+
+    </string>
+
+    <string name="bitcoin">15819SY8QWhRm81LTzqhhKJTjauonBRgMq</string>
+    <string name="ethereum">0xfa8efe230b1c16434045ee3189f9ddd1636a999b</string>
+    <string name="litecoin">LS5GtE3PWx392hZgrEnKZ1WdMHTPySuGoH</string>
+    <string name="paypal">Paypal</string>
+
+    <string name="university">Universiti Teknikal Malaysia Melaka (UTeM)</string>
+    <string name="info2">Programming </string>
+    <string name="why">Kenapa saya bina aplikasi ini?</string>
+
+    <string name="rate">Rate \nAnda suka apps ini? tinggalkan rating di Play Store</string>
+    <string name="share">Kongsi \nHebahkan apps ini!</string>
+    <string name="feedback">Feedback \nBerikan komen anda mengenai apps ini</string>
+
+    <string name="tarikhpru">Pilihan Raya Umum 2018</string>
+</resources>
